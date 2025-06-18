@@ -93,10 +93,3 @@ if st.button("건강 지표 계산하기"):
         st.write("- 유산소 운동 중심: 걷기, 수영, 자전거")
         st.write("- 운동 강도는 점진적으로 증가시키세요")
         st.write("- 식사량 조절 및 영양소 균형 중요")
-
----
-
-### 실행 방법
-
-```bash
-streamlit run app.py
