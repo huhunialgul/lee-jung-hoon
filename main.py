@@ -33,3 +33,4 @@ if uploaded_file:
     st.markdown("📌 **참고 지표:**")
     st.markdown("- 선명도가 너무 낮으면 흐릿한 영상일 수 있습니다.")
     st.markdown("- 노이즈가 높을수록 영상 품질이 저하되었을 가능성이 있습니다.")
+
